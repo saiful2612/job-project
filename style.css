@@ -686,12 +686,22 @@ input{
     display:flex;
     margin-left: 10px;
     position:relative;
-    top:38px;
+    top:45px;
+}
+
+.name-photo{
+    background:#FBA4A9;
+    width: 41px;
+    height:41px;
+    border-radius:25px;
+}
+
+.name-photo img{
+    width:100%;
 }
 
 .name-content{
     position:relative;
-    top:10px;
 }
 
 .name-content h5{
@@ -775,5 +785,168 @@ input{
     background:red;
     border-radius:30px;
     color:#fff;
-
 }
+
+.subscriber{
+    border:1px solid red;
+    width: 280px;
+    height:328px;
+    margin-left: 50px;
+    background:url("./images/Subscribe/Ellipse 22(1).png");
+    background-size:100%;;
+    /* background-size:cover; */
+    background-repeat: no-repeat;
+    /* position:relative; */
+}
+
+.subscriber img{
+    width:100%;
+    height: 328px;
+}
+
+.subscriber-logo{
+    position:relative;
+    left: 25px;
+    bottom: 250px;
+}
+
+.first{
+    border: 1px solid red;
+    width:408px;
+    height: 417px;
+    background:url("./images/first/bg.png");
+    background-size:100%;;
+    /* background-size:cover; */
+    background-repeat: no-repeat;
+    position:relative;
+    right:30px;
+    z-index:1;
+    margin-left: 100px;
+}
+
+.first-imgbox{
+    width:408px;
+    height: 417px;
+    background:url("./images/first/shadeo(1).png");
+    background-size:100%;;
+    /* background-size:cover; */
+    background-repeat: no-repeat;
+    position:relative;
+    left:8px;
+    /* z-index:2;  */
+}
+
+.first img{
+    width:100%;    
+    /* position:relative;
+    left:8px; */
+    height:417px;
+}
+
+.full-box{
+    height:417px;
+    width:408px;
+    border:1px solid green;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    overflow:hidden;    
+}
+
+.test{
+    width:500px;
+    height:400px;
+    background:black;
+    display:flex;
+}
+/* .test2 img{
+    width:40%;
+}  */
+
+/* .test-img2{
+    position:relative;
+    top:5px;
+    right:10px;
+} */
+
+.test1{
+    width:30px;
+    height:30px;
+    background:grey;
+    margin-top:100px;
+    margin-left:100px;
+    border-radius:25px;
+}
+.test-img1 img{
+    width:35%;
+}
+
+.test-img1{
+    position:relative;
+    top:5px;
+    left:8px;
+}
+
+.test-img2 img{
+    width:10%;
+}
+
+.test-img2{
+    position:relative;
+    bottom:14px;
+    left:16px;
+}
+
+.cart img{
+    width:50%;
+    position:relative;
+    top:5px;
+    left:6px;
+}
+
+.cart-dot{
+    display:flex;
+}
+
+.cart-dot img{
+    width:9%;
+    position:relative;
+    bottom:10px;
+    left:10px; 
+    background:white;
+    border-radius:25px;   
+}
+
+.str1 img, .str2 img, .str3 img{
+    width:40%;
+}
+.str1{
+    position:relative;
+    bottom:2px;
+    left:8px;
+}
+
+.str2{
+    position:relative;
+    bottom:18px;
+    left:8px;
+}
+
+.str3{
+    position:relative;
+    bottom:34px;
+    left:8px;
+}
+
+.fixed1{
+    position:relative;
+    right:85px;
+}
+
+.fixed2{
+    position:relative;
+    right:170px;
+}
+
+
+
+
