@@ -5,6 +5,9 @@ body{
     margin:0;
 }
 
+                        /* About Portion */
+
+
 .about{
     width: 500px;
     height:500px;
@@ -226,6 +229,8 @@ p{
     /* color:black; */
 }
 
+                            /* Video Portion */
+
 .video{
     background-image: url('./images/imag.png');
     background-size:100% 500px;
@@ -328,6 +333,8 @@ p{
     /* left:25px; */
 }
 
+                /* Gallery Portion */
+
 .div{
     /* height:100px;
     width:100%; */
@@ -384,6 +391,8 @@ p{
     width:100%;
     height:200px;
 }
+
+                    /* Life changong event Portion */
 
 .first1, 
 .first2, 
@@ -454,7 +463,7 @@ hr{
     margin-top:8px;
     opacity:8%;
 }
-
+                            /* Blog Portion */
 
 .card{
     width:250px;
@@ -519,6 +528,8 @@ hr{
     /* justify-content:center; */
 }
 
+                                /* Instagram Portion */
+
 .insta{
     height:400px;
     background:url("./images/insta/Rectangle 225.png");
@@ -569,6 +580,8 @@ hr{
     margin-top:40px;
 }
 
+                        /* Appointment Portion */
+
 .appoinment{
     margin-top:20px;
     text-align:center;
@@ -616,6 +629,8 @@ input{
     padding:5px;
     text-align:center;
 }
+
+                        /* Client comment Portion */
 
 .round{
     /* height:25px; */
@@ -682,6 +697,8 @@ input{
 .shadow-table{
     /* border:1px solid red; */
 }
+
+
 .name{
     display:flex;
     margin-left: 10px;
@@ -727,6 +744,9 @@ input{
 .dot img{
     margin:2px;
 }
+
+                                    /* ontact Portion */
+
 .contact-area{
     /* background:red; */
     height:500px;
@@ -787,6 +807,8 @@ input{
     color:#fff;
 }
 
+                                        /* Subscriber Portion */
+
 .subscriber{
     border:1px solid red;
     width: 280px;
@@ -809,6 +831,8 @@ input{
     left: 25px;
     bottom: 250px;
 }
+
+                                        /* Header Portion */
 
 .first{
     border: 1px solid red;
@@ -852,6 +876,8 @@ input{
     overflow:hidden;    
 }
 
+                                /* Header icon Portion */
+
 .test{
     width:500px;
     height:400px;
@@ -871,7 +897,7 @@ input{
 .test1{
     width:30px;
     height:30px;
-    background:grey;
+    background:red;
     margin-top:100px;
     margin-left:100px;
     border-radius:25px;
